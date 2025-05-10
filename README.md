@@ -3,7 +3,7 @@
 SoftSell is a responsive, single-page marketing website for a fictional software resale startup. The project showcases modern web design, clean code practices, and integrates an AI-powered assistant using Google's Gemini API.
 
 ## 🚀 Live Demo
-Hosted on Vercel → [https://softsell.vercel.app](https://softsell.vercel.app)
+Hosted on Vercel → [https://softsell.vercel.app](https://soft-sell-vert-three.vercel.app/)
 
 ---
 
